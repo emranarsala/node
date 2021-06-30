@@ -1,0 +1,2 @@
+let bye = 1 + 6;
+console.log(bye);
